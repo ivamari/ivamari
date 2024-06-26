@@ -1,4 +1,4 @@
-## Hello, my name is Maria!
+## Hello! My name is Maria!
 
 ## About
 
