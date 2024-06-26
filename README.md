@@ -10,4 +10,3 @@ Subsequently, I realized my desire to progress further. With my technical educat
 
 * Email: [ivamerii@yandex.ru](mailto:ivamerii@yandex.ru)
 * Telegram: [@ivameri](https://t.me/ivameri)
-* Whatsapp: [+79211025525](https://wa.me/79211025525)
