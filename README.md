@@ -11,5 +11,4 @@ Subsequently, I realized my desire to progress further. With my technical educat
 * Email: [ivamerii@yandex.ru](mailto:ivamerii@yandex.ru)
 * Telegram: [@ivameri](https://t.me/ivameri)
 
-### Resume
 * HabrCareer: [Resume](https://career.habr.com/ivameri)
