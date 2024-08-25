@@ -1,5 +1,3 @@
-## Hello! My name is Maria!
-
 ## Contacts
 
 * Email: [ivamerii@yandex.ru](mailto:ivamerii@yandex.ru)
